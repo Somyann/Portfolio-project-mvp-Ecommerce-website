@@ -1,5 +1,7 @@
 CLOTHINGANDMORE MVP SPECIAFICATION
 
+![alt text](https://github.com/Somyann/Portfolio-project-mvp-Ecommerce-website/blob/main/![portfolio project](https://github.com/user-attachments/assets/30a2124d-8088-4cf2-894b-3b5794bb3dd8)
+raw=true)
 
 ARCHITECTURE
 
